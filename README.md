@@ -1,2 +1,2 @@
 # hello-world
-exercício inicial do curso back-end CubosAcademy
+Exercício inicial do curso back-end CubosAcademy no dia 20/07/2023
